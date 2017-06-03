@@ -1,0 +1,13 @@
+site_name: HardOPS Docs
+site_url: http://boxcutter-manual.readthedocs.io/
+pages:
+    - Getting Started:
+        - Start: index.md
+
+
+markdown_extensions:
+    - admonition
+    - footnotes
+theme: readthedocs
+extra_css:
+    - css/extra.css
