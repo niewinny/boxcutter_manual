@@ -3,6 +3,9 @@ site_url: http://boxcutter-manual.readthedocs.io/
 pages:
     - Getting Started:
         - Start: index.md
+        - Introduction: introduction.md
+        - Installation: installation.md
+        - FAQs and SFQs: faq.md
 
 
 markdown_extensions:
