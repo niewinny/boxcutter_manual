@@ -14,17 +14,17 @@ a.toctree-l4 {
 }
 
 .wy-side-nav-search {
-	background: #c8612d;
+	background: #222c32;
 }
 
 .wy-nav-side {
-	background: #c8612d;
+	background: #222c32;
 }
 
 .rst-versions .rst-current-version {
-	background: #c8612d;
+	background: #222c32;
 }
 
 .rst-versions{
-	border-top:solid 10px #c8612d;
+	border-top:solid 10px #222c32;
 }
